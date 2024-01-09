@@ -1,15 +1,16 @@
-### Issue
-- Explain the issue in a clear way;
-- Refer to the bug being fix;
+## Issue: #<issue_number>
+- Describe the issue clearly;
+- Reference the related bug;
 
-### What does this PR do?
-- List the changes made in the PR;
-- Mention any partical points you would like feedback/validation on;
-- If necessary, clarify why a partical approach was chosen in detriment of others;
-- Declare the issue closure, if that is the case;
+## What does this PR do?
+- Summarize the changes made in the PR.
+- Highlight specific points for feedback/validation.
+- Justify the chosen approach over alternatives.
+- Declare issue closure if applicable.
 
-### Showcase
-- Show visual evidence of the before and after.
+## Showcase
+- Provide visual evidence of the issue before and after the fix.
 
-
-End with a positive message, and reiterate the points you don't want reviewers to forget when reviewing.
+## Closing Notes
+- End with a positive message.
+- Reiterate key points for reviewers to focus on during the review.
