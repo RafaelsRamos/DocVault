@@ -1,6 +1,6 @@
 ## Feature - `<feature_name>`
 - Reference feature documentation;
-- Very breaf feature description;
+- Very brief feature description;
 - Highlight any specific decisions made during feature planning that might be noteworthy.
 
 ## What does this PR do?
